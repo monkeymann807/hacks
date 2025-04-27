@@ -1,4 +1,4 @@
-mport turtle
+import turtle
 a=turtle.turtle()
 a.color('green1')
 a.speed()
